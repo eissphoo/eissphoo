@@ -45,8 +45,9 @@ flowchart LR
 ---
 
 ### 🧰 Toolbox
-`Python` `Java` `SQL` `C` `JavaScript`
-`Lighthouse` `Playwright` `PostgreSQL` `Git/GitHub` `Linux`
+**Comfortable with:** `Python` `Java` `SQL` `Git/GitHub`
+**Used in projects (AI-assisted):** `JavaScript` `Lighthouse` `Playwright` `PostgreSQL` `Linux`
+**Learning now:** `AWS` `Cloud architecture`
 
 ### 📚 Other work
 - **Business analytics dashboard:** built individually in a 1-month internship at Rikkeisoft (Vietnam), with mentor guidance
