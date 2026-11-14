@@ -16,9 +16,9 @@ Built it on my own with help from a mentor.
 **Smaller projects**: a car-sharing database design (SOCAR) and a Java game platform where I combined three teammates' mini games into one.
 
 ### Tools
-Comfortable with: Python, Java, SQL, Git
-Used in projects (with AI assistance): JavaScript, Lighthouse, Playwright, PostgreSQL, Linux
-Learning: AWS, cloud architecture
+- **Comfortable with:** Python · Java · SQL · Git
+- **Used in projects (with AI assistance):** JavaScript · Lighthouse · Playwright · PostgreSQL · Linux
+- **Learning:** AWS · Cloud architecture
 
 ### Other
 Korean (TOPIK 5) · English · Burmese
