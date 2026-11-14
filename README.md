@@ -22,7 +22,6 @@ Built it on my own with help from a mentor.
 **Learning:** AWS, Cloud architecture
 
 ### Other
-Korean (TOPIK 5) · English · Burmese
-Before coding, I did business development at AIESEC Myanmar, calling companies to find sponsors. That's where I learned that explaining an idea clearly matters as much as building it.
 
-📫 eissiinp@knu.ac.kr · [LinkedIn](https://www.linkedin.com/in/ei-shwe-zin-phoo-51924a369)
+**Languages:** Korean (TOPIK 5), English, Burmese<br>
+**Contact:** eissiinp@knu.ac.kr, [LinkedIn](https://www.linkedin.com/in/ei-shwe-zin-phoo-51924a369)
